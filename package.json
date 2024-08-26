@@ -1,12 +1,12 @@
 {
-  "name": "realtime_chess",
+  "name": "21bce8002-chess-hitwicket",
   "version": "1.0.0",
-  "description": "Realtime chess ",
+  "description": "turn based chess-21bce8002 ",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Yaksh Chopra",
+  "author": "21BCE8002-V Sharanya",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
